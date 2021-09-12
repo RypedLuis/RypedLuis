@@ -1,6 +1,6 @@
 ### Hello there i'm RypedLuis 👋
 
-- 🔭 I’m currently working on Kyte
+- 🔭 I’m currently working on Kyte (Minecraft client) & Kyte-Anticheat alias KAC (Minecraft Anticheat)
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: [Twitter](https://twitter.com/RypedL) & Discord: Ryped_Luis#0012
 - 📍  I live in Germany - Berlin
