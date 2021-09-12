@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Kyte
 - 🌱 I’m currently learning Java
-- 📫 How to reach me: Twitter: https://twitter.com/RypedL & Discord: Ryped_Luis#0012
+- 📫 How to reach me: [Twitter](https://twitter.com/RypedL) & Discord: Ryped_Luis#0012
 - 📍  I live in Germany - Berlin
 - 🕐 17 years old
 
